@@ -4,7 +4,7 @@
 #	Основные настройки бота
 #
 
-TELEGRAM_TOKEN = "6261433578:AAHF47Tc6G6t1y55qgDVNmvlOXg6d-SA734"		# Токен телеграм бота
+TELEGRAM_TOKEN = ""		# Токен телеграм бота
 
 
 PAYMENTS = {
